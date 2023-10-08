@@ -7,6 +7,6 @@ export class AppService {
   }
 
   getObject(): { id: number, name: string } {
-    return { id: 1, name: 'ha tuyet nhung' };
+    return { id: 1, name: 'tuyet nhung' };
   }
 }
